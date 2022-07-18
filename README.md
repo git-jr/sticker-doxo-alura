@@ -1,6 +1,6 @@
 ## A primeira Imersão Java da Alura!
 
-Consumindo a API do IMDb para mais tarde criar firguinhas / stickers para o WhatsApp a partir das imagens do filmes.
+Consumindo a API do IMDb para mais tarde criar figurinhas / stickers para o WhatsApp a partir das imagens do filmes.
 
 
 ## Folder Structure
