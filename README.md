@@ -1,6 +1,7 @@
-## Getting Started
+## A primeira Imersão Java da Alura!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Consumindo a API do IMDb para mais tarde criar firguinhas / stickers para o WhatsApp a partir das imagens do filmes.
+
 
 ## Folder Structure
 
