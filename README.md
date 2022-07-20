@@ -3,17 +3,17 @@
 Consumindo a API do IMDb para mais tarde criar figurinhas / stickers para o WhatsApp a partir das imagens do filmes.
 
 
-## Folder Structure
+## Aula 1
+Consumindo API do IMDB (ou similar devido as instabilidades)
+- Desafio: Personalizar exibição dos dados
+- Minha resposta: Se a nota do IMDB for maior que 5.5 ele exibe a avaliação em estrelas⭐, abaixo disso, em tomates🍅👀
 
-The workspace contains two folders by default, where:
+## Aula 2
+Baixando as imagens dos filmes para criar figurinha
+- Desafio: Customizar a formatação das imagens para transforma-las em figurinhas do WhatsApp.
+- Minha resposta: Imagens formatadas de acordo com a proposta e o texto a ser inserido é selecionado aleatoriamente.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<img src="https://pbs.twimg.com/media/FYEsk0RWYAAvf4w?format=jpg&name=medium" alt="Imagem mostrando figurinhas e terminal emojis" width="600">
+<img src="https://pbs.twimg.com/media/FYEs1d0XEAQrR_O?format=png&name=small" alt="Figurinha" width="300">
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
