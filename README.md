@@ -1,7 +1,10 @@
-## A primeira Imersão Java da Alura!
+## [A primeira Imersão Java da Alura!](https://youtu.be/WdT90ffB-0Q)
 
-Consumindo a API do IMDb para mais tarde criar figurinhas / stickers para o WhatsApp a partir das imagens do filmes.
+Consumindo APIs de terceiros para criar figurinhas do WhatsApp com Java;
+Construindo nossa própria API com Spring e MongoDB;
+Reforçando Padrões de Orientação a Objetos.
 
+ <br/>
 
 ## [Dia 1](https://github.com/git-jr/sticker-doxo-alura/tree/7e8fa690883302f7433abe4d1191aae77580ddf6)
 Consumindo API do IMDB (ou similar devido as instabilidades)
@@ -20,9 +23,22 @@ Baixando as imagens dos filmes para criar figurinha
 
 ## [Dia 3](https://github.com/git-jr/sticker-doxo-alura/tree/29d46861600c5a9bb9a82cc2fa909ca36972e4a0)
 Refatorando código, repensando competências e usando a API da Nasa 🚀
+
 - Desafios:
 - [x] Transformar a classe que representa os conteúdos em um Record
 - [x] Criar exceção customizada
 - [x] Criar uma Enum para URL das APIs
 - [ ] Mapear listas com  Streams ou Lambdas
 - [ ] Desafio Supremo: Consumir outras APIs com retornos diferentes
+
+## [Dia 4](https://github.com/git-jr/sticker-doxo-alura/tree/7c7bcc586ee00f5c490f4da5de2fc8e5bbaab368)
+Talvez o melhor dia até agora, criamos uma [API com Spring Boot e MongoDB](https://github.com/git-jr/api-sticker-doxo-alura) para usar na criação das figurinhas
+
+- Desafios:
+- [x] Finalizar o CRUD
+- [x] Devolver a listagem ordenada pelo ranking
+- [x] Retornar o status 201 quando um POST é feito
+- [ ] Criar DTO para "traduzir" as primeiras inserções com nomes diferentes da API 
+- [ ] Desafio Supremo: Aplicar modificações parciais no recurso através do método PATCH, por exemplo, modificando o número de votos a cada acesso
+
+
