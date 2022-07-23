@@ -42,3 +42,13 @@ Talvez o melhor dia até agora, criamos uma [API com Spring Boot e MongoDB](http
 - [ ] Desafio Supremo: Aplicar modificações parciais no recurso através do método PATCH, por exemplo, modificando o número de votos a cada acesso
 
 
+## [Dia 5]
+Fizemos o deploy da API criada para o Cloud Heroku!
+Teste minha API: https://sticker-doxo-api.herokuapp.com/linguagens
+
+🚧Trabalho em Progresso🚧
+Comecei adaptar o app Android [desenvolvido durante #7DaysOfCode](https://github.com/git-jr/DevHub) de Kotlin com Jetpack Compose para lidar com a nossa api:
+
+<img src="https://github.com/K6pkus/Imgs/blob/main/api_tester_demo1.gif?raw=true" alt="api_tester_demo1" width="300">
+
+
