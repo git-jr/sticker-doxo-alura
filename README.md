@@ -46,9 +46,14 @@ Talvez o melhor dia até agora, criamos uma [API com Spring Boot e MongoDB](http
 Fizemos o deploy da API criada para o Cloud Heroku!
 Teste minha API: https://sticker-doxo-api.herokuapp.com/linguagens
 
-🚧Trabalho em Progresso🚧
-Comecei adaptar o app Android [desenvolvido durante #7DaysOfCode](https://github.com/git-jr/DevHub) de Kotlin com Jetpack Compose para lidar com a nossa api:
+## [Extra](https://github.com/git-jr/DevHub/tree/api-alura)
 
-<img src="https://github.com/K6pkus/Imgs/blob/main/api_tester_demo1.gif?raw=true" alt="api_tester_demo1" width="300">
+Adaptei o app Android [desenvolvido durante #7DaysOfCode](https://github.com/git-jr/DevHub) de Kotlin com Jetpack Compose para lidar com a nossa api. 
+- Além de listar as figurinhas, você pode votar na que mais gostar. 
+- 🚧 Tentando fazer elas irem direto pro WhatsApp. 
+
+
+<img src="https://github.com/K6pkus/Imgs/blob/main/amostra-devHub-api-alura.gif?raw=true" alt="api_tester_demo1" width="300">
+
 
 
